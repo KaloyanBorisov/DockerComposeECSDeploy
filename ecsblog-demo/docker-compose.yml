@@ -1,9 +1,12 @@
+version: '2'
 services:
   frontend:
+    image: kaloyan84/starter-front
     build: frontend
     ports:
       - 80:80
     depends_on:
       - backend
   backend:
+    image: kaloyan84/starter-back
     build: backend
