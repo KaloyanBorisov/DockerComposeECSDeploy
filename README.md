@@ -1,2 +1,1 @@
-# dockercon
-Demo resources for DockerCon
+Check - https://www.docker.com/blog/docker-compose-from-local-to-amazon-ecs/
